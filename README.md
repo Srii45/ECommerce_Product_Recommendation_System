@@ -4,6 +4,7 @@ Overview
 This repository contains the source code for an E-commerce product recommendation system. The system is designed to provide personalized product recommendations to users based on their browsing and purchase history.
 
 Features
+
 Personalized Recommendations: Utilizes machine learning algorithms to analyze user behavior and provide personalized product recommendations.
 
 Scalable: The system is designed to scale efficiently, making it suitable for both small and large-scale e-commerce platforms.
